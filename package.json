@@ -1,0 +1,32 @@
+{
+  "author": "Jenniffer Orjuela",
+  "name": "wannabe_backend",
+  "version": "1.0.0",
+  "description": "Technical Challenge: Backend Software Engineering",
+  "main": "index.ts",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.0"
+  },
+  "scripts": {
+    "dev": "nodemon index.ts",
+    "start": "node index.ts",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnnjenn/wannabe_backend.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnnjenn/wannabe_backend/issues"
+  },
+  "homepage": "https://github.com/jnnjenn/wannabe_backend#readme"
+}
