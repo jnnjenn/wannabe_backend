@@ -5,6 +5,8 @@
   "description": "Technical Challenge: Backend Software Engineering",
   "main": "index.ts",
   "dependencies": {
+    "express": "^4.18.2",
+    "faker": "^6.6.6",
     "typescript": "^4.9.3"
   },
   "devDependencies": {
